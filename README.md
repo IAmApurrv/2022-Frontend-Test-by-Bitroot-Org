@@ -1,6 +1,6 @@
 # 2022-Frontend-Test-by-Bitroot-Org
 
-<h1>Prerequisites :<h1/>
+<h1>Prerequisites :</h1>
 
 Node.js and npm (Node Package Manager) installed on your machine.
 
