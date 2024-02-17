@@ -1,24 +1,24 @@
 # 2022-Frontend-Test-by-Bitroot-Org
 
-Prerequisites:
+<h1>Prerequisites :<h1/>
 
 Node.js and npm (Node Package Manager) installed on your machine.
 
 
-Dependencies:
+Dependencies :
 
 This project requires the following dependencies:
 
-  React: A JavaScript library for building user interfaces.
+  React : A JavaScript library for building user interfaces.
   
-  axios: A promise-based HTTP client for making HTTP requests.
+  axios : A promise-based HTTP client for making HTTP requests.
   
-  Sass: A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).
+  Sass : A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).
   
   
-  react-dom: React package for working with the DOM.
+  react-dom : React package for working with the DOM.
   
-  react-scripts: A set of scripts and configuration used by Create React App.
+  react-scripts : A set of scripts and configuration used by Create React App.
 
 
 Steps to Run the Project:
@@ -41,13 +41,13 @@ The db.json file contains mock data for the project. Ensure that it's correctly 
 
 Project Structure:
 
-src/App.js: Main component that renders the application.
+src/App.js : Main component that renders the application.
 
-src/Card.js: Component for rendering individual cards.
+src/Card.js : Component for rendering individual cards.
 
-src/Model.js: Component for rendering models.
+src/Model.js : Component for rendering models.
 
-src/App.scss: Stylesheet for the application.
+src/App.scss : Stylesheet for the application.
 
-db.json: Mock data for the project.
+db.json : Mock data for the project.
 
