@@ -5,33 +5,32 @@
 Node.js and npm (Node Package Manager) installed on your machine.
 
 
-Dependencies :
+<h1>Dependencies :</h1>
 
 This project requires the following dependencies:
 
-  React : A JavaScript library for building user interfaces.
+  <h1>React</h1> : A JavaScript library for building user interfaces.
   
-  axios : A promise-based HTTP client for making HTTP requests.
+  <h1>axios</h1> : A promise-based HTTP client for making HTTP requests.
   
-  Sass : A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).
+  <h1>Sass</h1> : A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).
   
+  <h1>react-dom</h1> : React package for working with the DOM.
   
-  react-dom : React package for working with the DOM.
-  
-  react-scripts : A set of scripts and configuration used by Create React App.
+  <h1>react-scripts</h1> : A set of scripts and configuration used by Create React App.
 
 
 Steps to Run the Project:
   
-  Clone the Repository : -> git clone https://github.com/IAmApurrv/2022-Frontend-Test-by-Bitroot-Org.git
+  Clone the Repository : -> <h1>git clone https://github.com/IAmApurrv/2022-Frontend-Test-by-Bitroot-Org.git</h1>
   
-  Navigate to the Project Directory : -> cd bitroot
+  Navigate to the Project Directory : -> <h1>cd bitroot</h1>
   
-  Install Dependencies : -> npm install
+  Install Dependencies : -> <h1>npm install</h1>
   
-  Start the Development Server : -> npm start
+  Start the Development Server : -> <h1>npm start</h1>
   
-  Access the Application : -> Once the development server is running, you can access the application by navigating to http://localhost:3000 in your web browser.
+  Access the Application : -> <h1>Once the development server is running, you can access the application by navigating to http://localhost:3000 in your web browser.</h1>
 
 
 Additional Notes:
