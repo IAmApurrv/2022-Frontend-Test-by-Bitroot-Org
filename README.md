@@ -6,9 +6,9 @@ Node.js and npm (Node Package Manager) installed on your machine.
 
 
 <h1>
-npm install --> -g json-server
+npm install -g json-server
 
-json-server --> --watch db.json --port 3001
+json-server --watch db.json --port 3001
 </h1>
 
 
@@ -49,9 +49,9 @@ Additional Notes:
 The db.json file contains mock data for the project. Ensure that it's correctly configured and serving the data as expected.
 
 <h1>
-npm install --> -g json-server
+npm install -g json-server
 
-json-server --> --watch db.json --port 3001
+json-server --watch db.json --port 3001
 </h1>
 
 
