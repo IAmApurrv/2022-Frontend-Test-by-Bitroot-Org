@@ -4,6 +4,8 @@
 
 Node.js and npm (Node Package Manager) installed on your machine.
 
+to
+
 
 
 
@@ -20,7 +22,6 @@ This project requires the following dependencies:
   <h1>react-dom : React package for working with the DOM.</h1>
   
   <h1>react-scripts : A set of scripts and configuration used by Create React App.</h1>
-
 
 
 
@@ -42,6 +43,12 @@ Steps to Run the Project:
 Additional Notes:
 
 The db.json file contains mock data for the project. Ensure that it's correctly configured and serving the data as expected.
+
+<h1>
+npm install --> -g json-server
+
+json-server --> --watch db.json --port 3001
+</h1>
 
 
 
