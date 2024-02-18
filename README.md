@@ -17,8 +17,8 @@ Steps to Run the Project:
   <h3>Install Dependencies : npm install</h3>
 
   <h3>Start JSon-Server :</h3>
-    <h3>npm install -g json-server</h3>
-    <h3>json-server --watch db.json --port 3001</h3>
+    <h3>    npm install -g json-server</h3>
+    <h3>    json-server --watch db.json --port 3001</h3>
   
   <h3>Start the Development Server : npm start</h3>
   
