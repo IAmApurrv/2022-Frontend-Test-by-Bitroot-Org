@@ -4,8 +4,12 @@
 
 Node.js and npm (Node Package Manager) installed on your machine.
 
-to
 
+<h1>
+npm install --> -g json-server
+
+json-server --> --watch db.json --port 3001
+</h1>
 
 
 
