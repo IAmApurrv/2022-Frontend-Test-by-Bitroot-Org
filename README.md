@@ -25,13 +25,6 @@ Steps to Run the Project:
   <h3>VI] Access the Application : Once the development server is running, you can access the application by navigating to http://localhost:3000 in your web browser.</h3>
 
 <hr />
-<br />
-
-<h1>
-npm install -g json-server
-<br />
-json-server --watch db.json --port 3001
-</h1>
 
 <br />
 <br />
@@ -53,20 +46,16 @@ This project requires the following dependencies:
 <br />
 <br />
 
-
-
-
-<h3>Additional Notes :
+<h3>
+Additional Notes :
 
 The db.json file contains mock data for the project. Ensure that it's correctly configured and serving the data as expected.
 </h3>
-<h1>
+
+<h3>
 npm install -g json-server
-
 json-server --watch db.json --port 3001
-</h1>
-
-
+</h3>
 
 <br />
 <br />
